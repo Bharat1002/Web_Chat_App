@@ -1,0 +1,33 @@
+Chat app with live typing.
+
+**General
+users can chat with particular user without affecting each other.
+can see the status of other if they online or offline.
+
+user have to sign up first to use it.
+if user already sign up and then logged out then he can login again using same credentials.
+user can log out at any time, and once log out other users will immediately know that that user is offline.
+
+(user can send text message only for now)
+
+**bit extra
+can see what other user typing even that user didn't sent message.
+can find other user with email id only
+send images, small size videos or gif and files.
+
+
+
+
+login/signup page
+user-list page
+specified user chat window page
+update user details page
+reset password page
+
+sql for signup page and varify it with db that user is new
+retrieval page for existing user and all their chat data.
+
+
+
+
+
